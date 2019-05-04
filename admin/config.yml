@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ramarit/ramarit.github.io
+  repo: https://www.ryanamarit.com/reddenhollow/
   branch: master
   site_domain: reddenhollow.netlify.com
 
