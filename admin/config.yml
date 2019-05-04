@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: https://www.ryanamarit.com/reddenhollow/
+  repo: ramarit/reddenhollow
   branch: master
   site_domain: reddenhollow.netlify.com
 
-media_folder: "images/uploads"
+media_folder: "images"
 
 collections:
   - name: "homepage" # Used in routes, e.g., /admin/collections/blog
